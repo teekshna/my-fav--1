@@ -1,0 +1,17 @@
+body{
+    background-color: cyan;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 40px;
+}
+#bio{
+    padding: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+}
